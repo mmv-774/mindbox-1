@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{CAAB8024-2968-4779-91EC-94F439181913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLib", "ShapesLib\ShapesLib.csproj", "{9BD882CD-84AC-4242-BE7B-855CED062598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLib.Tests", "ShapesLib.Tests\ShapesLib.Tests.csproj", "{90F23ECC-4B70-476B-9C23-F9AD9474A2D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAB8024-2968-4779-91EC-94F439181913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAB8024-2968-4779-91EC-94F439181913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAB8024-2968-4779-91EC-94F439181913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAB8024-2968-4779-91EC-94F439181913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD882CD-84AC-4242-BE7B-855CED062598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD882CD-84AC-4242-BE7B-855CED062598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD882CD-84AC-4242-BE7B-855CED062598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD882CD-84AC-4242-BE7B-855CED062598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F23ECC-4B70-476B-9C23-F9AD9474A2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F23ECC-4B70-476B-9C23-F9AD9474A2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F23ECC-4B70-476B-9C23-F9AD9474A2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F23ECC-4B70-476B-9C23-F9AD9474A2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
